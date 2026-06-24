@@ -49,7 +49,7 @@ This project explores ~9,800 orders from the [Superstore Sales Dataset](https://
 |---|---|
 | `Superstore_Sales_Analysis_PowerBI.pbix` | Power BI dashboard file |
 | `Sample - Superstore.xlsx` | Cleaned dataset with pivot table validation |
-| `screenshots/` | Dashboard page exports |
+| `Screenshots/` | Dashboard page exports |
  
 ## Possible next steps
  
