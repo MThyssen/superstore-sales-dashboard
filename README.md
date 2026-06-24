@@ -2,8 +2,8 @@
 A two-page Power BI dashboard analyzing sales, profit, and discount trends for a fictional retail superstore, built on top of an Excel-based data cleaning and validation workflow.
 
 ## Here is the Dashboard Report Export:
-![Overview Page](screenshots/overview-page.png)
-![Deep Dive Page](screenshots/deep-dive-page.png)
+![Overview Page](Screenshots/overview-page.png)
+![Deep Dive Page](Screenshots/deep-dive-page.png)
 
 ## Project overview
  
