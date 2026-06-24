@@ -1,4 +1,4 @@
-# Suoperstore Sales Dashboard
+# Superstore Sales Dashboard
 A two-page Power BI dashboard analyzing sales, profit, and discount trends for a fictional retail superstore, built on top of an Excel-based data cleaning and validation workflow.
 
 ## Here is the Dashboard Report Export:
