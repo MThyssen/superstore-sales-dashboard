@@ -1,7 +1,9 @@
 # superstore-sales-dashboard
 A two-page Power BI dashboard analyzing sales, profit, and discount trends for a fictional retail superstore, built on top of an Excel-based data cleaning and validation workflow.
-Here is the Dashboard Report Export:
-![Dashboard Overview](Superstore_Sales_Analysis_PowerBI Reports.pdf)
+
+## Here is the Dashboard Report Export:
+![Overview Page](screenshots/overview-page.png)
+![Deep Dive Page](screenshots/deep-dive-page.png)
 
 ## Project overview
  
@@ -44,7 +46,7 @@ This project explores ~9,800 orders from the [Superstore Sales Dataset](https://
 |---|---|
 | `Superstore_Sales_Analysis_PowerBI.pbix` | Power BI dashboard file |
 | `Sample - Superstore.xlsx` | Cleaned dataset with pivot table validation |
-| `Superstore_Sales_Analysis_PowerBI Report.pdf` | Dashboard page exports |
+| `screenshots/` | Dashboard page exports |
  
 ## Possible next steps
  
