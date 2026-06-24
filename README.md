@@ -39,7 +39,7 @@ This project explores ~9,800 orders from the [Superstore Sales Dataset](https://
 ## Key insights
  
 - **Central region underperforms on margin.** Despite solid sales volume, Central has a noticeably lower profit margin (~8%) than East, South, and West (12–15%), pointing to either heavier discounting or a less profitable product mix in that region.
-- **Discounting above ~30–40% frequently erases profit.** The Discount vs. Profit scatter shows a clear negative relationship — orders with steep discounts often fall below the break-even line.
+- **Profit declines as discounts increase** Profit turns negative for orders with higher discounts, visible in the cluster of points below the break-even line as discount increases past roughly 20–30%
 - **Best-sellers aren't always profitable.** Several products in the Top 10 by sales — including the Cisco TelePresence System and the GBC DocuBind P400 — actually post negative profit, despite high revenue. Sales volume alone is a misleading success metric without checking margin.
 - **Clear holiday seasonality.** Sales consistently peak in Q4, particularly November, across all four years in the dataset.
 
